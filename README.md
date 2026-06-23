@@ -6,7 +6,7 @@
 
 ## 截图
 
-| 首页 | Button | TabView |
+| 首页 | Button | TabView（TikTok 分页 Demo） |
 | --- | --- | --- |
 | ![首页](Screenshots/home.png) | ![Button](Screenshots/button.png) | ![TabView](Screenshots/tabview.png) |
 
